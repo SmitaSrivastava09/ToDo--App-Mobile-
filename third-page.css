@@ -48,6 +48,7 @@ body{
     width: 263px;
     box-shadow: 3px 4px 4px 3px lightgray;
     
+    
 }
 
 /* popup container  */
@@ -80,9 +81,10 @@ body{
     margin-bottom: 5px;
     width: 200px;
     margin-left: 2em;
-    padding-right: 2em;
+    padding-right: 1em;
     
    
 }
+
 
 }
